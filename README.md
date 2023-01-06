@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rnakahara03
 - 👀 I love to read, run, garden, and hike in my free time!
 - 🌱 I’m a second year undergraduate studying Data Science and Environmental Science
-- 📫 How to reach me: rnakahara03@gmail.com, https://www.linkedin.com/in/ria-nakahara/
+- 📫 How to reach me: rnakahara@berkeley.edu, https://www.linkedin.com/in/ria-nakahara/
 
 <!---
 rnakahara03/rnakahara03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
