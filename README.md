@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rnakahara03
 - 👀 I love to read, run, garden, and hike in my free time!
-- 🌱 I’m a second year undergraduate studying Data Science and Environmental Science
+- 🌱 I’m a second year undergraduate studying Data Science and Statistics
 - 📫 How to reach me: rnakahara@berkeley.edu, https://www.linkedin.com/in/ria-nakahara/
 
 <!---
